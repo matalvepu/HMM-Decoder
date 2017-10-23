@@ -8,7 +8,7 @@ Date:  9/7/2017
 Description:
 Implementation of the HMM decoder for Parts of Speech Tagging
 
-I did it as a part of homework problem in the Statistical Speech and Language Processing class taught by Prof Daniel Gildea (https://www.cs.rochester.edu/~gildea/) in Spring 2017.
+I did it as a part of homework problem in the Statistical Speech and Language Processing class taught by Prof Daniel Gildea (https://www.cs.rochester.edu/~gildea/) in Fall 2017.
 
 
 ==================================================================================================
